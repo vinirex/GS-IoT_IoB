@@ -1,6 +1,19 @@
 # 🌱 SafeSpace — Guardião de Estufa Espacial
 
+# 👨‍🚀 Integrantes
+
+| Nome         | RM      |
+| ------------ | ------- |
+| Vincius Silva| RM553240 |
+| Victor Didoff| RM552965 |
+| Matheus Zottis| RM94119 |
+
+---
+
+
 ## 📌 Sobre o Projeto
+
+link: https://wokwi.com/projects/447920966323106817
 
 O **SafeSpace** é um sistema inteligente de monitoramento para estufas espaciais em habitats lunares ou marcianos.
 
@@ -199,15 +212,6 @@ O vídeo demonstra:
 
 ---
 
-# 👨‍🚀 Integrantes
-
-| Nome         | RM      |
-| ------------ | ------- |
-| Integrante 1 | RMXXXXX |
-| Integrante 2 | RMXXXXX |
-| Integrante 3 | RMXXXXX |
-
----
 
 # 🚀 Futuras Melhorias
 
